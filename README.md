@@ -4,6 +4,6 @@ Internet Scraper that sends alerts in Discord when new articles are posted on a 
 ## How to configure
 Fill up the .env file based on the comments.
 
-Adapt the loading of the environment variables and the size of the loop based on the number of URLs you configured in the .env.
+Adapt the loading of the environment variables and the size of the loops based on the number of URLs you configured in the .env.
 
-Paste the channel you want the alerts to be sent in to replace your_channel_id in the loop.
+Paste the channel you want the alerts to be sent in to replace your_channel_id at line 81.
