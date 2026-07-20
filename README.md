@@ -6,4 +6,4 @@ Fill up the .env file based on the comments.
 
 Adapt the loading of the environment variables and the size of the loops based on the number of URLs you configured in the .env.
 
-Paste the channel you want the alerts to be sent in to replace your_channel_id at line 81.
+Paste the channel you want the alerts to be sent in's ID instead of your_channel_id at line 81.
